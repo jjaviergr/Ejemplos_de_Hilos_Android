@@ -185,7 +185,7 @@ public class MainActivity extends Activity {
     private class MiTareaAsincrona extends AsyncTask<Void, Integer, Boolean> {
     	
     	/**
-    	 * M�todo que hace una tarea larga o pesada en segundo plano
+    	 * Método que hace una tarea larga o pesada en segundo plano
     	 */
     	@Override
     	protected Boolean doInBackground(Void... params) 
@@ -203,7 +203,7 @@ public class MainActivity extends Activity {
     	}
     	
     	/**
-    	 * Método que se dispara al hacer cualquier actualizaci�n en la tarea Asincrona.
+    	 * Método que se dispara al hacer cualquier actualización en la tarea Asincrona.
     	 */
         @Override
         protected void onProgressUpdate(Integer... values) {
