@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ud6_EntenderHilos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="contador_sin_hilos">Contador sin hilos</string>
+    <string name="contador_con_hilos_mal">Contador con hilos mal</string>
+    <string name="contador_con_hilos_post">Contador con hilos y post()</string>
+    <string name="contador_con_hilos_handler">Contador con hilos y Handler</string>
+    <string name="contador_asintask">Contador Asyntask</string>
+    <string name="parar_contador_asyntask">Parar contador_Asyntask</string>
+    <string name="_0">0</string>
+
+</resources>

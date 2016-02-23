@@ -1,0 +1,72 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:id="@+id/btContador_sin_hilos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/contador_sin_hilos"
+        android:onClick="onClickContador_sin_hilos" />
+
+    <Button
+        android:id="@+id/btContador_con_hilos_mal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/contador_con_hilos_mal"
+        android:onClick="onClickContador_con_hilos_mal" />
+
+    <Button
+        android:id="@+id/btContador_con_hilos_post"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/contador_con_hilos_post"
+        android:onClick="onClickContador_con_hilos_post"/>
+
+    <Button
+        android:id="@+id/btContador_con_hilos_handler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/contador_con_hilos_handler"
+        android:onClick="onClickContador_con_hilos_handler"/>
+
+    <Button
+        android:id="@+id/btContador_Asyntask"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/contador_asintask"
+        android:onClick="onClickContador_Asyntask"/>
+
+    <ProgressBar
+        android:id="@+id/pbarProgreso"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dip"
+        android:layout_marginLeft="5dip"
+        android:layout_marginRight="5dip"
+        android:max="100" />
+
+    <Button
+        android:id="@+id/btPararContadorAsyntask"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/parar_contador_asyntask"
+        android:onClick="onClickPararContadorAsyntask"/>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_0" />
+
+</LinearLayout>
+

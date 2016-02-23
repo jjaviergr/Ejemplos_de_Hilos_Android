@@ -1,0 +1,235 @@
+[
+    {
+        "outputFile": "C:\\Users\\pc\\workspace\\Ud6_EntenderHilos\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\pc\\workspace\\Ud6_EntenderHilos\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\pc\\workspace\\Ud6_EntenderHilos\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 32,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "C:\\Users\\pc\\workspace\\Ud6_EntenderHilos\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 672,
+                        "endColumn": 32,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 52,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "C:\\Users\\pc\\workspace\\Ud6_EntenderHilos\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 52,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endColumn": 54,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "C:\\Users\\pc\\workspace\\Ud6_EntenderHilos\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 54,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 63,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "C:\\Users\\pc\\workspace\\Ud6_EntenderHilos\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 530,
+                        "endColumn": 63,
+                        "endOffset": 589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 83,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "C:\\Users\\pc\\workspace\\Ud6_EntenderHilos\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 445,
+                        "endColumn": 83,
+                        "endOffset": 524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endColumn": 73,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "C:\\Users\\pc\\workspace\\Ud6_EntenderHilos\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 73,
+                        "endOffset": 358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 532,
+                    "endColumn": 79,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "C:\\Users\\pc\\workspace\\Ud6_EntenderHilos\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 364,
+                        "endColumn": 79,
+                        "endOffset": 439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 612,
+                    "endColumn": 65,
+                    "endOffset": 673
+                },
+                "from": {
+                    "file": "C:\\Users\\pc\\workspace\\Ud6_EntenderHilos\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 65,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 678,
+                    "endColumn": 52,
+                    "endOffset": 726
+                },
+                "from": {
+                    "file": "C:\\Users\\pc\\workspace\\Ud6_EntenderHilos\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 52,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 731,
+                    "endColumn": 75,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "C:\\Users\\pc\\workspace\\Ud6_EntenderHilos\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 75,
+                        "endOffset": 666
+                    }
+                }
+            }
+        ]
+    }
+]
